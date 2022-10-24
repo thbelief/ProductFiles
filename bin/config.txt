@@ -1,0 +1,7 @@
+# 应用数据清理
+[0-9]{6}\.log->/sdcard/Android/data/com.miui.gallery/cache/->false->5->0.001
+market[0-9]{7}\.log->/sdcard/Android/data/com.xiaomi.market/files/mipushlog/->false->5->0.001
+[0-9]{6}\.log->/sdcard/Android/data/com.miui.systemAdSolution/files/mipushlog/->false->5->0.001
+[0-9]{6}\.log->/sdcard/Android/data/com.miui.cloudservice/->false->5->0.001
+[0-9]{6}\.log->/sdcard/Android/data/com.android.deskclock/files/->false->5->0.001
+[0-9]{6}\.log->/sdcard/Android/data/com.android.thememanager/files/MiPushLog/->false->5->0.001
